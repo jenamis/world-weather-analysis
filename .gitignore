@@ -130,6 +130,7 @@ dmypy.json
 
 # Add additional file
 API_practice.ipynb
+Google_Nearby_Search.ipynb
 
 .DS_Store
 .env
